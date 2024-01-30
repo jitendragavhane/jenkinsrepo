@@ -1,5 +1,5 @@
 <html>
  <body> 
-	<li> Welcome to Jenkins Repo
+	<li> Welcome to Jenkins Repository
  </body>
 </html>
